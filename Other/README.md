@@ -8,3 +8,5 @@ Effects, which did not fit into any other category.
 | Fog Skybox | ![Fog Skybox](https://github.com/Delt06/unity-graphics/raw/master/Documentation/fog_skybox.jpg) | A skybox shader that blends with fog. | [GitHub](https://github.com/Delt06/unity-graphics#fog-skybox) |
 | Matcap | ![Matcap](https://github.com/Delt06/unity-graphics/raw/master/Documentation/matcap.jpg) | Basic matcap (material capture) shader. | [GitHub](https://github.com/Delt06/unity-graphics#matcap) |
 | Toon Terrain | ![Toon Terrain](https://github.com/Delt06/unity-graphics/raw/master/Documentation/toon_terrain.jpg) | Lightweight toon terrain shader. | [GitHub](https://github.com/Delt06/unity-graphics#toon-terrain) |
+| Shockwave | ![Shockwave](https://github.com/Delt06/opaque-texture-shaders/raw/master/Documentation/shockwave.gif) | Spawns a temporary screens-space distortion effect on each click. | [GitHub](https://github.com/Delt06/opaque-texture-shaders) |
+| Black Hole | ![Black Hole](https://github.com/Delt06/opaque-texture-shaders/raw/master/Documentation/black_hole.gif) | A simple black hole effect. | [GitHub](https://github.com/Delt06/opaque-texture-shaders) |
