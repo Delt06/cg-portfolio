@@ -6,6 +6,7 @@ A list of shaders/graphical effects I worked on. This includes both personal and
 
 - [Uber Shaders](./UberShaders)
 - [Grass/Vegetation/Fur](./GrassVegetationFur)
+- [Lighting/Shadows](./LightingShadows)
 - [Post Effects](./PostEffects)
 - [Voxels](./Voxels)
 - [Raymarching](./Raymarching)
