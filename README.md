@@ -5,4 +5,5 @@ A list of shaders/graphical effects I worked on. This includes both personal and
 ## Table of contents
 
 - [Uber Shaders](./UberShaders)
+- [Voxels](./Voxels)
 - [Other](./Other)
